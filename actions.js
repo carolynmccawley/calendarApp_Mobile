@@ -1,0 +1,12 @@
+const actions = {
+    HYDRATE: 'HYRDATE',
+    DELETE_TODO: 'DELETE_TODO',
+    ADD_TODO: 'ADD_TODO',
+    DELETE_ASSIGNMENT: 'DELETE_ASSIGNMENT',
+    ADD_ASSIGNMENT: 'ADD_ASSIGNMENT',
+    ADD_EVENT: 'ADD_EVENT',
+    DELETE_EVENT: 'DELETE_EVENT'
+
+  }
+  
+  export default actions
